@@ -17,5 +17,13 @@ const namaKhodam = [
   "Dewa Koding",
   "Tikus Sawah",
   "Sapi terbang",
+  "Kucing Pemalas",
+  "Kuda Liar",
+  "Ayam Jago",
+  "Babi Hutan",
+  "Bebek Laut",
+  "Ikan Mas",
+  "Kelinci Hutan",
+  "Gajah Liar"
 ];
 
